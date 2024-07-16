@@ -1,0 +1,1 @@
+this is a text to image generator project with the help of open ai It is a more powerful project user can generate amazing image using AiNextGen. I create this project with help of these technology front end:- htmljs,react,tailwind css backend:- nodejs,express js db:- mongodb filesystem:-cloudinary for storing our images in cloud and get an optimize image it also help for seo
